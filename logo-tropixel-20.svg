@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="700"
+   height="500"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logo-tropixel-20.svg"
+   inkscape:export-filename="/home/felipe/Google Drive/projetos/tropixel/20/logo-tropixel-20.png"
+   inkscape:export-xdpi="178.44"
+   inkscape:export-ydpi="178.44">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="85.54517"
+     inkscape:cy="195.05984"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     width="700px">
+    <sodipodi:guide
+       position="159.62936,697.38406"
+       orientation="0,1"
+       id="guide1677"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-552.36218)">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:0.8745098;stroke:none;stroke-width:5.05482531;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1679"
+       width="538"
+       height="538"
+       x="101"
+       y="553.36218"
+       inkscape:export-xdpi="178"
+       inkscape:export-ydpi="178" />
+    <g
+       id="g1688"
+       transform="matrix(0.5140746,0,0,0.5140746,184.90434,697.23814)"
+       inkscape:export-xdpi="178"
+       inkscape:export-ydpi="178">
+      <text
+         inkscape:export-ydpi="38.080002"
+         inkscape:export-xdpi="38.080002"
+         inkscape:export-filename="/home/felipe/Dropbox/projetos/ubalab/13-0-tropixel/identidade/g3355.png"
+         id="text2985-5"
+         y="355.09985"
+         x="144.31386"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:252.70220947px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic'"
+           y="355.09985"
+           x="144.31386"
+           id="tspan2987-0"
+           sodipodi:role="line"><tspan
+             id="tspan2989-5"
+             style="fill:#2b1a0a;fill-opacity:1">TRO</tspan><tspan
+             id="tspan3759-7"
+             style="fill:#00a079;fill-opacity:0.9758454">PIXEL</tspan></tspan></text>
+      <rect
+         inkscape:export-ydpi="38.080002"
+         inkscape:export-xdpi="38.080002"
+         inkscape:export-filename="/home/felipe/Dropbox/projetos/ubalab/13-0-tropixel/identidade/g3355.png"
+         y="129.67188"
+         x="504.24606"
+         height="26.002766"
+         width="25.913946"
+         id="rect3761-3"
+         style="fill:#ee641e;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ee631e;fill-opacity:0.8745098;stroke:none"
+         x="-69.686157"
+         y="355.09985"
+         id="text1673"
+         inkscape:export-filename="/home/felipe/Dropbox/projetos/ubalab/13-0-tropixel/identidade/g3355.png"
+         inkscape:export-xdpi="38.080002"
+         inkscape:export-ydpi="38.080002"><tspan
+           sodipodi:role="line"
+           id="tspan1671"
+           x="-69.686157"
+           y="355.09985"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:252.70220947px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';fill:#ee631e;fill-opacity:0.8745098">20.</tspan></text>
+    </g>
+  </g>
+</svg>
